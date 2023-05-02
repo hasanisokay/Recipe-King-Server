@@ -1,51 +1,158 @@
 [
-    {
-      "chefPicture": "https://images.pexels.com/photos/14906238/pexels-photo-14906238.jpeg",
-      "chefName": "Mojid Chaca",
-      "yearsOfExperience": 50,
-      "numberOfRecipes": 500,
-      "likes": 1000,
-      "id": 1
-    },
-    {
-      "chefPicture": "https://images.pexels.com/photos/14918530/pexels-photo-14918530.jpeg",
-      "chefName": "Moyna Mia",
-      "yearsOfExperience": 8,
-      "numberOfRecipes": 30,
-      "likes": 500,
-      "id": 2
-    },
-    {
-      "chefPicture": "https://images.pexels.com/photos/16514002/pexels-photo-16514002.jpeg",
-      "chefName": "Kumra Khosru",
-      "yearsOfExperience": 5,
-      "numberOfRecipes": 20,
-      "likes": 200,
-      "id": 3
-    },
-    {
-      "chefPicture": "https://images.pexels.com/photos/16513952/pexels-photo-16513952.jpeg",
-      "chefName": "Moti Mia",
-      "yearsOfExperience": 15,
-      "numberOfRecipes": 100,
-      "likes": 2000,
-      "id": 4
-    },
-    {
-      "chefPicture": "https://images.pexels.com/photos/14841856/pexels-photo-14841856.jpeg",
-      "chefName": "Kuber Majhi",
-      "yearsOfExperience": 7,
-      "numberOfRecipes": 40,
-      "likes": 800,
-      "id": 5
-    },
-    {
-      "chefPicture": "https://images.pexels.com/photos/8350287/pexels-photo-8350287.jpeg",
-      "chefName": "Khadok Mojnu",
-      "yearsOfExperience": 12,
-      "numberOfRecipes": 70,
-      "likes": 1500,
-      "id": 6
-    }
-  ]
-  
+  {
+    "chefPicture": "https://images.pexels.com/photos/14906238/pexels-photo-14906238.jpeg",
+    "chefName": "Mojid Chaca",
+    "yearsOfExperience": 50,
+    "numberOfRecipes": 500,
+    "likes": 1000,
+    "id": 1,
+    "bio": "Mojid Chaca is a renowned chef with over 50 years of experience in the culinary arts. He has a passion for creating dishes that are both delicious and visually stunning.",
+    "recipes": [
+      {
+        "name": "Beef Bhuna",
+        "description": "A spicy and flavorful beef dish made with caramelized onions, ginger, garlic, and a blend of aromatic spices.",
+        "image": "https://example.com/recipe1.jpg"
+      },
+      {
+        "name": "Fish Kalia",
+        "description": "A rich and creamy fish curry made with coconut milk, onions, tomatoes, and a blend of spices.",
+        "image": "https://example.com/recipe2.jpg"
+      },
+      {
+        "name": "Chicken Rezala",
+        "description": "A fragrant and mild chicken curry made with yogurt, cream, and a blend of aromatic spices.",
+        "image": "https://example.com/recipe3.jpg"
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://images.pexels.com/photos/14918530/pexels-photo-14918530.jpeg",
+    "chefName": "Moyna Mia",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 30,
+    "likes": 500,
+    "id": 2,
+    "bio": "Moyna Mia is a talented chef with a passion for creating healthy and flavorful dishes. She has a background in nutrition and believes that food can be both delicious and nourishing.",
+    "recipes": [
+      {
+        "name": "Chingri Malai Curry",
+        "description": "A creamy and delicious shrimp curry made with coconut milk, onions, tomatoes, and a blend of spices.",
+        "image": "https://example.com/recipe1.jpg"
+      },
+      {
+        "name": "Lau Ghonto",
+        "description": "A flavorful and nutritious dish made with bottle gourd, potatoes, and a blend of spices.",
+        "image": "https://example.com/recipe2.jpg"
+      },
+      {
+        "name": "Murgir Jhol",
+        "description": "A simple and comforting chicken curry made with potatoes, onions, and a blend of spices.",
+        "image": "https://example.com/recipe3.jpg"
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://images.pexels.com/photos/16514002/pexels-photo-16514002.jpeg",
+    "chefName": "Alu Chowdhury",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 20,
+    "likes": 200,
+    "id": 3,
+    "bio": "Alu Chowdhury is a creative chef with a love for experimenting with new ingredients and flavors. He draws inspiration from his travels and incorporates international flavors into his dishes.",
+    "recipes": [
+      {
+        "name": "Shorshe Ilish",
+        "description": "A classic Bangladeshi dish made with mustard paste, green chilies, and ilish fish.",
+        "image": "https://example.com/recipe1.jpg"
+      },
+      {
+        "name": "Mutton Rezala",
+        "description": "A fragrant and flavorful mutton curry made with yogurt, cream, and a blend of aromatic spices.",
+        "image": "https://example.com/recipe2.jpg"
+      },
+      {
+        "name": "Morog Polao",
+        "description": "A rich and flavorful chicken and rice dish made with a blend of aromatic spices and garnished with fried onions and raisins.",
+        "image": "https://example.com/recipe2.jpg"
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://images.pexels.com/photos/16513952/pexels-photo-16513952.jpeg",
+    "chefName": "Moti Mia",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 2000,
+    "id": 4,
+    "bio": "Sara is a masterful chef with a passion for creating dishes that are both delicious and visually stunning. She has honed her craft over decades of experience in the culinary arts.",
+    "recipes": [
+        {
+        "name": "Dhaka Chicken Curry",
+        "description": "A flavorful and spicy chicken curry made with special care.",
+        "image": "https://example.com/recipe2.jpg"
+        },
+        {
+          "name": "Bengali Fish Fry",
+          "description": "A crispy and flavorful fried fish dish made with a blend of aromatic spices and served with a side of chutney.",
+          "image": "https://example.com/recipe2.jpg"
+        },
+        {
+          "name": "Aloo Posto",
+          "description": "A simple and flavorful dish made with potatoes and poppy seeds, and served with steamed rice.",
+          "image": "https://example.com/recipe3.jpg"
+        }
+      ]
+  },
+  {
+    "chefPicture": "https://images.pexels.com/photos/14841856/pexels-photo-14841856.jpeg",
+    "chefName": "Kuber Majhi",
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 40,
+    "likes": 800,
+    "id": 5,
+    "bio": "Kuber Majhi is a talented chef with a passion for creating dishes that are both flavorful and healthy. He specializes in using fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "name": "Chitol Macher Muitha",
+        "description": "A unique and flavorful fish ball dish made with chitol fish and a blend of aromatic spices.",
+        "image": "https://example.com/recipe1.jpg"
+      },
+      {
+        "name": "Bhuna Khichuri",
+        "description": "A hearty and flavorful rice and lentil dish made with caramelized onions and a blend of aromatic spices.",
+        "image": "https://example.com/recipe2.jpg"
+      },
+      {
+        "name": "Murgir Jhol",
+        "description": "A simple and comforting chicken curry made with potatoes, onions, and a blend of spices.",
+        "image": "https://example.com/recipe3.jpg"
+      }
+    ]
+  },
+  {
+    "chefPicture": "https://images.pexels.com/photos/8350287/pexels-photo-8350287.jpeg",
+    "chefName": "Khadok Mojnu",
+    "yearsOfExperience": 9,
+    "numberOfRecipes": 70,
+    "likes": 1500,
+    "id": 6,
+    "bio": "Emily is a young and talented chef who is just starting out in the culinary world. She has a passion for creating healthy and flavorful dishes that are both accessible and affordable.",
+    "recipes": [
+      {
+        "name": "Shorshe Dharosh",
+        "description": "A simple and flavorful okra dish made with mustard paste, green chilies, and a blend of aromatic spices.",
+        "image": "https://example.com/recipe1.jpg"
+      },
+      {
+        "name": "Chingri Bhorta",
+        "description": "A flavorful and spicy shrimp mash made with onions, tomatoes, and a blend of spices.",
+        "image": "https://example.com/recipe2.jpg"
+      },
+      {
+        "name": "Lau Tarkari",
+        "description": "A simple and flavorful dish made with bottle gourd and a blend of aromatic spices, and served with steamed rice.",
+        "image": "https://example.com/recipe3.jpg"
+      }
+    ]
+  }
+]
