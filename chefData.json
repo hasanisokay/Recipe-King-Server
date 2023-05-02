@@ -1,0 +1,45 @@
+[
+    {
+      "chefPicture": "https://images.pexels.com/photos/14906238/pexels-photo-14906238.jpeg",
+      "chefName": "Mojid Chaca",
+      "yearsOfExperience": 50,
+      "numberOfRecipes": 500,
+      "likes": 1000
+    },
+    {
+      "chefPicture": "https://images.pexels.com/photos/14918530/pexels-photo-14918530.jpeg",
+      "chefName": "Moyna Mia",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 30,
+      "likes": 500
+    },
+    {
+      "chefPicture": "https://images.pexels.com/photos/16514002/pexels-photo-16514002.jpeg",
+      "chefName": "Kumra Chowdhury",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 20,
+      "likes": 200
+    },
+    {
+      "chefPicture": "https://images.pexels.com/photos/16513952/pexels-photo-16513952.jpeg",
+      "chefName": "Moti Mia",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 100,
+      "likes": 2000
+    },
+    {
+      "chefPicture": "https://images.pexels.com/photos/14841856/pexels-photo-14841856.jpeg",
+      "chefName": "Kuber Majhi",
+      "yearsOfExperience": 7,
+      "numberOfRecipes": 40,
+      "likes": 800
+    },
+    {
+      "chefPicture": "https://images.pexels.com/photos/14875578/pexels-photo-14875578.jpeg",
+      "chefName": "Anis Mia",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 70,
+      "likes": 1500
+    }
+  ]
+  
