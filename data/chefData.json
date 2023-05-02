@@ -25,6 +25,7 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot.",
         "rating": 4.3
       },
       {
@@ -44,7 +45,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.2
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Chicken Rezala",
@@ -63,6 +65,7 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot.",
         "rating": 4.7
       }
     ]
@@ -93,7 +96,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.7
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Lau Ghonto",
@@ -112,7 +116,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.7
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Murgir Jhol",
@@ -131,7 +136,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.7
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       }
     ]
   },
@@ -161,7 +167,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.7
+        "rating": 4.7,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Mutton Rezala",
@@ -180,7 +187,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 5
+        "rating": 5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Morog Polao",
@@ -199,7 +207,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.4
+        "rating": 4.4,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       }
     ]
   },
@@ -212,7 +221,7 @@
     "id": 4,
     "bio": "Moti Mia is a masterful chef with a passion for creating dishes that are both delicious and visually stunning. She has honed her craft over decades of experience in the culinary arts.",
     "recipes": [
-        {
+      {
         "name": "Dhaka Chicken Curry",
         "description": "A flavorful and spicy chicken curry made with special care.",
         "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg",
@@ -229,50 +238,50 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.5
-        
-        
-        },
-        {
-          "name": "Bengali Fish Fry",
-          "description": "A crispy and flavorful fried fish dish made with a blend of aromatic spices and served with a side of chutney.",
-          "image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
-          "ingredients": [
-            "1 lb. fish, cubed",
-            "1 large onion, chopped",
-            "2 large tomatoes, chopped",
-            "2 cloves garlic, minced",
-            "1 inch ginger, minced",
-            "1 tsp. cumin powder",
-            "1 tsp. coriander powder",
-            "1 tsp. turmeric powder",
-            "1 tsp. red chili powder",
-            "Salt, to taste",
-            "3 tbsp. oil"
-          ],
-          "rating": 4.2
-        },
-        {
-          "name": "Aloo Posto",
-          "description": "A simple and flavorful dish made with potatoes and poppy seeds, and served with steamed rice.",
-          "image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
-          "ingredients": [
-            "1 lb. alu, cubed",
-            "1 large onion, chopped",
-            "2 large tomatoes, chopped",
-            "2 cloves garlic, minced",
-            "1 inch ginger, minced",
-            "1 tsp. cumin powder",
-            "1 tsp. coriander powder",
-            "1 tsp. turmeric powder",
-            "1 tsp. red chili powder",
-            "Salt, to taste",
-            "3 tbsp. oil"
-          ],
-          "rating": 4.2
-
-        }
-      ]
+        "rating": 4.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Bengali Fish Fry",
+        "description": "A crispy and flavorful fried fish dish made with a blend of aromatic spices and served with a side of chutney.",
+        "image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
+        "ingredients": [
+          "1 lb. fish, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      },
+      {
+        "name": "Aloo Posto",
+        "description": "A simple and flavorful dish made with potatoes and poppy seeds, and served with steamed rice.",
+        "image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg",
+        "ingredients": [
+          "1 lb. alu, cubed",
+          "1 large onion, chopped",
+          "2 large tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt, to taste",
+          "3 tbsp. oil"
+        ],
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
+      }
+    ]
   },
   {
     "chefPicture": "https://images.pexels.com/photos/14841856/pexels-photo-14841856.jpeg",
@@ -300,7 +309,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.2
+        "rating": 4.2,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Bhuna Khichuri",
@@ -319,7 +329,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 3.5
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Murgir Jhol",
@@ -338,7 +349,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 3.5
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       }
     ]
   },
@@ -368,7 +380,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 3.5
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Chingri Bhorta",
@@ -387,8 +400,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 4.5
-
+        "rating": 4.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       },
       {
         "name": "Chicken Korma",
@@ -407,7 +420,8 @@
           "Salt, to taste",
           "3 tbsp. oil"
         ],
-        "rating": 3.5
+        "rating": 3.5,
+        "method": "1. Marinate the meat with spices and yogurt for a few hours. \n2. Cook the rice and keep it aside. \n3. In a separate pot, cook the marinated meat until it's tender. \n4. Layer the cooked meat and rice in a large pot, alternating between meat and rice. \n5. Cover the pot and cook on low heat until the rice is fully cooked. Serve hot."
       }
     ]
   }
